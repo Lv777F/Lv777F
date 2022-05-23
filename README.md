@@ -21,10 +21,6 @@
 <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" style="margin-bottom: 4px;" height="30px">
 </p>
 
-## 👥 Connect With Me
-<p>
-</p>
-
 ## 🌟 Github Badges
 <p>
 <img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif" height="24px">
