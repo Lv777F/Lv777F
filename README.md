@@ -3,7 +3,7 @@
 <img width="100%" src="https://api.daily.dev/devcards/b5e2fb34886e468fbfbb02e45651fce8.png?r=c8s" alt="my banner">
 
 ## 💫 Liitle Bit More About Me
-<p>🔭 I'm currently working on <a href="https://github.com/OBQun/full-stack-toys/tree/main/apps/api">full-stack-toys</a></p>
+<p>🔭 I'm currently working on <a href="https://github.com/OBQun/full-stack-toys/tree/main/apps/api">full-stack-toys/api</a></p>
 <p>🌱 I'm currently learning Angular,RxJS,NestJS,Prisma,GraphQL</p>
 <p>💬 Ask me about Full-Stack Development</p>
 
