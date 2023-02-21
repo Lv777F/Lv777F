@@ -4,8 +4,8 @@
 
 ## 💫 Liitle Bit More About Me
 <p>🔭 I'm currently working on full-stack-toys</p>
-<p>🌱 I'm currently learning Angular,RxJS,NestJS,Prisma</p>
-<p>💬 Ask me about Front-End Development</p>
+<p>🌱 I'm currently learning Angular,RxJS,NestJS,Prisma,GraphQL</p>
+<p>💬 Ask me about Full-Stack Development</p>
 
 ## 💻 Skills
 <p>
