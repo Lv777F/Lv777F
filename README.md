@@ -1,6 +1,6 @@
 # Hi there 👋, My name is Franky
 
-<img width="100%" src="https://api.daily.dev/devcards/b5e2fb34886e468fbfbb02e45651fce8.png?r=c8s" alt="my banner">
+<a href="https://app.daily.dev/frankyl"><img src="https://api.daily.dev/devcards/v2/b9PniCp3Pmy6CSIEIHilL.png?r=pxy&type=wide" width="652" alt="Lv777's Dev Card"/></a>
 
 ## 💫 Liitle Bit More About Me
 <p>🔭 I'm currently working on <a href="https://github.com/OBQun/full-stack-toys/tree/main/apps/api">full-stack-toys/api</a></p>
