@@ -4,7 +4,7 @@
 
 ## 💫 Liitle Bit More About Me
 <p>🔭 I'm currently working on <a href="https://github.com/OBQun/full-stack-toys/tree/main/apps/api">full-stack-toys/api</a></p>
-<p>🌱 I'm currently learning Angular,RxJS,NestJS,Prisma,GraphQL</p>
+<p>🌱 I'm currently learning Angular,React,Vue,RxJS,NestJS,Drizzle,GraphQL</p>
 <p>💬 Ask me about Full-Stack Development</p>
 
 ## 💻 Skills
@@ -15,6 +15,7 @@
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" style="margin-bottom: 4px;" height="30px">
 <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" style="margin-bottom: 4px;" height="30px">
 <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" style="margin-bottom: 4px;" height="30px">
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" style="margin-bottom: 4px;" height="30px">
 <img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" style="margin-bottom: 4px;" height="30px">
 <img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" style="margin-bottom: 4px;" height="30px">
 <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" style="margin-bottom: 4px;" height="30px">
@@ -29,15 +30,15 @@
 
 ## 🏆 GitHub Trophies
 
-<p><img src="https://github-profile-trophy.vercel.app/?username=OBQun">
+<p><img src="https://github-profile-trophy.vercel.app/?username=Lv777F">
 </p>
 
 ## 📊 Github Status
 
-<p><img src="https://github-readme-stats.vercel.app/api?username=OBQun&show_icons=true"><p>
+<p><img src="https://github-readme-stats.vercel.app/api?username=Lv777F&show_icons=true"><p>
 
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OBQun&layout=compact"><p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lv777F&layout=compact"><p>
 
-<p><img src="https://metrics.lecoq.io/OBQun"><p>
+<p><img src="https://metrics.lecoq.io/Lv777F"><p>
 
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=OBQun"><p>
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=Lv777F"><p>
