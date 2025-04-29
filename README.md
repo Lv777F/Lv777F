@@ -39,6 +39,4 @@
 
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lv777F&layout=compact"><p>
 
-<p><img src="https://metrics.lecoq.io/Lv777F"><p>
-
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=Lv777F"><p>
